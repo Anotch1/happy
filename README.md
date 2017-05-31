@@ -16,6 +16,8 @@ Features of the game:
 - Uses a tree 
 - Made in Processing Java
 
+Link: https://github.com/Anotch1/happy/tree/gh-pages/intStory
+
 
 
 **Bold** and _Italic_ and `Code` text
