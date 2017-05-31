@@ -1,7 +1,5 @@
 ## Welcome to My Portfolio!
 
-![Alt Text](https://raw.githubusercontent.com/Anotch1/happy/gh-pages/Screen%20Shot%202017-05-31%20at%202.27.44%20PM.png)
-
 ### My Portfolio contains the two projects that I have done for our AP COMP SCI Final Project
 
 The two projects I have made for this are tic-tac-toe and my interactive story, The Cave.
@@ -9,9 +7,9 @@ The two projects I have made for this are tic-tac-toe and my interactive story, 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#Interactive Story, The Cave.
+
+![Alt Text](https://raw.githubusercontent.com/Anotch1/happy/gh-pages/Screen%20Shot%202017-05-31%20at%202.27.44%20PM.png)
 
 - Bulleted
 - List
