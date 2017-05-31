@@ -4,9 +4,6 @@
 
 The two projects I have made for this are tic-tac-toe and my interactive story, The Cave.
 
-```markdown
-Syntax highlighted code block
-
 #Interactive Story, The Cave.
 
 ![Alt Text](https://raw.githubusercontent.com/Anotch1/happy/gh-pages/Screen%20Shot%202017-05-31%20at%202.27.44%20PM.png)
