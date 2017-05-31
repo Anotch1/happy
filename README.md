@@ -18,7 +18,9 @@ Features of the game:
 
 Link: https://github.com/Anotch1/happy/tree/gh-pages/intStory
 
+### TicTacToe
 
+![Alt Text](https://raw.githubusercontent.com/Anotch1/happy/gh-pages/TicTacToe.JPG)
 
 **Bold** and _Italic_ and `Code` text
 
