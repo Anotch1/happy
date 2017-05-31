@@ -27,4 +27,5 @@ Features of the game:
 - 2 Modes: Single and two player game modes
 - Coded in Java Script
 
-Link: 
+Link: https://github.com/Anotch1/happy/tree/gh-pages/tictactoe
+
