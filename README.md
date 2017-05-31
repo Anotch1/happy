@@ -22,8 +22,9 @@ Link: https://github.com/Anotch1/happy/tree/gh-pages/intStory
 
 ![Alt Text](https://raw.githubusercontent.com/Anotch1/happy/gh-pages/TicTacToe.JPG)
 
-**Bold** and _Italic_ and `Code` text
+Features of the game:
+- Literally TicTacToe
+- 2 Modes: Single and two player game modes
+- Coded in Java Script
 
-[Link](url) and ![Image](src)
-```
-
+Link: 
