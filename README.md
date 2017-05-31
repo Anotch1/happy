@@ -1,5 +1,7 @@
 ## Welcome to My Portfolio!
 
+![Alt Text](https://raw.githubusercontent.com/Anotch1/happy/gh-pages/Screen%20Shot%202017-05-31%20at%202.27.44%20PM.png)
+
 You can use the [editor on GitHub](https://github.com/Anotch1/happy/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
